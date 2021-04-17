@@ -1,0 +1,9 @@
+# First Project (Deploy an application (LAMP) stack)
+
+- [x] Creating an EC2 Linux Virtual Machine on AWS
+- [x] Installing Apache and updating firewall
+- [x] Installing mysql
+- [x] Installing php
+- [x] Creating a Virtual Host for your website using Apache
+- [x] Enable php on website
+- [x] Completed
