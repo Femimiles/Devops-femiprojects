@@ -12,7 +12,7 @@ This is a repository for all my DevOps Implementations
 - [x] **Completed**
 
 
-#Second Project Deploy an application on AWS (LEMP stack)
+# Second Project Deploy an application on AWS (LEMP stack)
 - [x] Configuring EC2 instance on AWS 
 - [x] Installing nginx webserver and configuring settings
 - [x] installing and configuring mysql
