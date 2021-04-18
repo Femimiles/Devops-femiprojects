@@ -22,7 +22,7 @@ This is a repository for all my DevOps Implementations
 - [x] **Completed**
 
 
-# Third Project Deploy an application on AWS (LEMP stack)
+# Third Project Deploy a Todo application on AWS (MERN stack)
 - [x] Configuring EC2 instance on AWS 
 - [x] Installing node, npm, expressjs and creating a mongodb free tier account on mlab
 - [x] installing react and postman 
