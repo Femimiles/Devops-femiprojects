@@ -20,3 +20,14 @@ This is a repository for all my DevOps Implementations
 - [x] Configuring nginx to use php processor
 - [x] Retreive data from mysql database with php
 - [x] **Completed**
+
+
+# Second Project Deploy an application on AWS (LEMP stack)
+- [x] Configuring EC2 instance on AWS 
+- [x] Installing node, npm, expressjs and creating a mongodb free tier account on mlab
+- [x] installing react and postman 
+- [x] Configure Database
+- [x] Configuring the Backend
+- [x] Frontend Creation
+- [x] Application working as expected
+- [x] **Completed**
